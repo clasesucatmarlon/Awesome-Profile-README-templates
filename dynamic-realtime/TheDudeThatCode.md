@@ -33,6 +33,13 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br><br><br><br>
 
-**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
+
+
+
+<a href="https://github.com/clasesucatmarlon/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=clasesucatmarlon&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/clasesucatmarlon/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=clasesucatmarlon&repo=convoychat" />
+</a>
